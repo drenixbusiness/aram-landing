@@ -8,8 +8,8 @@
 export const OFFER = {
   weeklyGrossMin: 9000,
   weeklyGrossMax: 13000,
-  rpmMin: 2.5,
-  rpmMax: 3.5,
+  rpmMin: 2.8,
+  rpmMax: 4.0,
   dispatchPct: 0.12,
   deductions: [
     { label: "Insurance", amount: 400 },
